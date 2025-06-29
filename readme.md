@@ -4,7 +4,7 @@
 
 ## Modo de uso
 
-###Acesso por smathphone
+### Acesso por smathphone
 
 	- FujitekVibration
 	- Password padrão:12345678
