@@ -5,9 +5,12 @@
 ## Modo de uso
 
 ###Acesso por smathphone
+
 	- FujitekVibration
 	- Password padrão:12345678
+ 
 ### Possui captive portal
+
 	- redireciona automaticamente para página do sensor
 	- caso não seja redirecionado automaticamente após a conexao, acesse via browser/navegador o ip 192.168.4.1
 
